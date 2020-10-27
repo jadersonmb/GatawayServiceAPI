@@ -1,10 +1,10 @@
-package com.zuka.gatway;
+package com.zuka.gateway;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class GatwayServiceApiApplicationTests {
+class GatewayServiceApiApplicationTests {
 
 	@Test
 	void contextLoads() {

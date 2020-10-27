@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.zuka</groupId>
-	<artifactId>GatwayServiceAPI</artifactId>
+	<artifactId>GatewayServiceAPI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>GatwayServiceAPI</name>
-	<description>API GatwayService</description>
+	<name>GatewayServiceAPI</name>
+	<description>API GatewayService</description>
 
 	<properties>
 		<java.version>11</java.version>

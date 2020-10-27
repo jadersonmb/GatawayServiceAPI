@@ -1,5 +1,5 @@
 spring:
-  application:    name: GatwayAPI
+  application:    name: GatewayAPI
     
 server:  port: 8080
   
