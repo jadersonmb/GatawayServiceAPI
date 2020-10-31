@@ -14,15 +14,15 @@ zuul:  ignored-services: '*'
   prefix: /api
   routes:    category-service:
       path: /category/**
-      service-id: CATEGORYAPI
+      service-id: CategoryAPI
       sensitiveHeaders: Cookie,Set-Cookie,Authorization
     company-service:
       path: /company/**
-      service-id: COMPANYAPI
+      service-id: CompanyAPI
       sensitiveHeaders: Cookie,Set-Cookie,Authorization
     account-service:
       path: /account/**
-      service-id: ACCOUNTAPI
+      service-id: AccountAPI
       sensitiveHeaders: Cookie,Set-Cookie,Authorization
 
   host:    socket-timeout-millis: 30000
